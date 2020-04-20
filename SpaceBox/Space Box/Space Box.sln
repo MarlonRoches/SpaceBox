@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Box", "Space Box\Space Box.csproj", "{8683B75E-D42E-40EB-A50C-0D50D901430F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8683B75E-D42E-40EB-A50C-0D50D901430F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8683B75E-D42E-40EB-A50C-0D50D901430F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8683B75E-D42E-40EB-A50C-0D50D901430F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8683B75E-D42E-40EB-A50C-0D50D901430F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ED23DC9-3590-4B0E-8BAB-2D3E9C76EA14}
+	EndGlobalSection
+EndGlobal
